@@ -1,7 +1,7 @@
 # Página Inicial para o Mestrado - UFC
 
 ## Calendário
-Aqui cabe um calendário massa, tenho planos de apresentar esse calendário para os meus orientadores na segunda-feira. De imediato, meu objetivo é finalizar a prova geral para conseguir prosseguir para a refatoração. Não cabem anotações sobre implementação agora, só quando eu realmente estiver na refatoração.
+TODO
 ## Links:
 - [Notas de Aula: Pesquisa Científica](https://drive.google.com/drive/folders/1RHFHZ6oZ4p-e84mp2TnbsAIgIcRuXgz5https://drive.google.com/drive/folders/1RHFHZ6oZ4p-e84mp2TnbsAIgIcRuXgz5)
 - [Curso de Escrita Científica](https://www.youtube.com/watch?v=CZR0ptpPaR0&list=PLCfYR9cthp2K1KfrPLZkUIxikvaofOEmW)
