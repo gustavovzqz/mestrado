@@ -1,0 +1,3 @@
+Development of Interactive Theorem Provers has led to the creation of big libraries and varied infrastructures for formal proofs. However, despite (or perhaps due to) their sophistication, the re-use of libraries by non-experts or across domains is a challenge. In this paper, we provide detailed case studies and evaluate the machine-learning tool ML4PG built to interactively data-mine the electronic libraries of proofs, and to provide user guidance on the basis of proof patterns found in the existing libraries. © 2014 Springer Basel.
+
+(descartado provavelmente)
